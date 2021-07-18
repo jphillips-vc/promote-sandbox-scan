@@ -1,4 +1,4 @@
-# promoto-sandbox-scan
+# promote-sandbox-scan
 
 requirements:
 - python
